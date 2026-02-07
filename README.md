@@ -116,22 +116,24 @@ This app helps **reduce waste**, **support communities**, and **build a digital 
 ---
 
 ## 📊 System Architecture
-<img src="https://github.com/user-attachments/assets/73cbf50e-fccf-4c88-93c3-7a82da3d4081"/>
+<img width="1434" height="839" alt="System Architecture" src="https://github.com/user-attachments/assets/73cbf50e-fccf-4c88-93c3-7a82da3d4081" />
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 📊 Data Flow Diagram (DFD)
-<img src="https://github.com/user-attachments/assets/d4d26678-d8df-49a7-9331-68278478f46d"/>
+<img width="1141" height="745" alt="image" src="https://github.com/user-attachments/assets/d4d26678-d8df-49a7-9331-68278478f46d" />
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 🖥️ System Block Diagram
-<img src="https://github.com/user-attachments/assets/5a16daf8-63a6-4c7f-ac2e-77426d5aa7bf"/>
+<img width="957" height="857" alt="image" src="https://github.com/user-attachments/assets/5a16daf8-63a6-4c7f-ac2e-77426d5aa7bf" />
 
----
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ## 🔄 Flowchart
-<img src="https://github.com/user-attachments/assets/3de2a670-91a2-4a18-8ee3-e535fd5c412f"/>
+<img width="955" height="653" alt="flowchart (2)" src="https://github.com/user-attachments/assets/3de2a670-91a2-4a18-8ee3-e535fd5c412f"/>
+
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ---
 
