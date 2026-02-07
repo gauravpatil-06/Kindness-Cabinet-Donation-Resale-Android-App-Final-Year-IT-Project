@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d5d970fc-9af6-4c44-b8e9-ce2463c61e2a" width="90"/>
-</p>
-
 <h1 align="center">🤝 Kindness Cabinet – Donation & Resale Android App</h1>
 
 <p align="center">
@@ -115,8 +111,6 @@ This app helps **reduce waste**, **support communities**, and **build a digital 
 
 🌐 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲 – 𝗞𝗶𝗻𝗱𝗻𝗲𝘀𝘀 𝗖𝗮𝗯𝗶𝗻𝗲𝘁 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲
 ![Website](https://github.com/user-attachments/assets/e6e7aab6-0685-4194-90dc-ba3dab3c514b)
-
-<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ---
 
