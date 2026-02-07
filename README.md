@@ -62,10 +62,10 @@ The project focuses on **sustainability, social responsibility, and digital incl
 
 ## 🎯 Ideal For
 
-✔ Educational institutions & universities
-✔ NGOs and non-profit organizations
-✔ Community-driven donation & resale platforms
-✔ Final-year Android & PHP/MySQL academic projects
+✔ Educational institutions & universities  
+✔ NGOs and non-profit organizations  
+✔ Community-driven donation & resale platforms  
+✔ Final-year Android & PHP/MySQL academic projects  
 
 This app helps **reduce waste**, **support communities**, and **build a digital culture of kindness** 🌱🤝
 
@@ -87,31 +87,72 @@ This app helps **reduce waste**, **support communities**, and **build a digital 
 
 ## 📸 Project Screenshots
 
-<table align="center">
-<tr>
-<td align="center"><b>🚀 Splash Screen</b><br><img src="https://github.com/user-attachments/assets/d5d970fc-9af6-4c44-b8e9-ce2463c61e2a" width="250"/></td>
-<td align="center"><b>🔐 Login Page</b><br><img src="https://github.com/user-attachments/assets/d2f03b85-365c-4085-bad5-8074bd00589c" width="250"/></td>
-<td align="center"><b>📲 OTP Verification</b><br><img src="https://github.com/user-attachments/assets/44a11339-ea3c-44b8-8ec1-cf848760a7f8" width="250"/></td>
-</tr>
+<table border="0" cellspacing="10" cellpadding="10" align="center">
+  <tr>
+    <td align="center">
+      🚀 <b>Splash Screen</b><br>
+      <img src="https://github.com/user-attachments/assets/d5d970fc-9af6-4c44-b8e9-ce2463c61e2a" width="250"/>
+    </td>
+    <td align="center">
+      🔐 <b>Login Page</b><br>
+      <img src="https://github.com/user-attachments/assets/d2f03b85-365c-4085-bad5-8074bd00589c" width="250"/>
+    </td>
+    <td align="center">
+      📲 <b>OTP Verification</b><br>
+      <img src="https://github.com/user-attachments/assets/44a11339-ea3c-44b8-8ec1-cf848760a7f8" width="250"/>
+    </td>
+  </tr>
 
-<tr>
-<td align="center"><b>🏠 Home Page</b><br><img src="https://github.com/user-attachments/assets/2608c99f-f90a-487e-8eb7-0b4a555e834b" width="250"/></td>
-<td align="center"><b>📂 Navigation Drawer</b><br><img src="https://github.com/user-attachments/assets/f8c8fd39-0826-4572-8d1b-ffb4b5fcd002" width="250"/></td>
-<td align="center"><b>➕ Add Product</b><br><img src="https://github.com/user-attachments/assets/6836ba4e-a2ca-49f6-af4d-0beb2f1c874c" width="250"/></td>
-</tr>
+  <tr>
+    <td align="center">
+      🏠 <b>Home Page</b><br>
+      <img src="https://github.com/user-attachments/assets/2608c99f-f90a-487e-8eb7-0b4a555e834b" width="250"/>
+    </td>
+    <td align="center">
+      📂 <b>Side Navigation Drawer</b><br>
+      <img src="https://github.com/user-attachments/assets/f8c8fd39-0826-4572-8d1b-ffb4b5fcd002" width="250"/>
+    </td>
+    <td align="center">
+      ➕ <b>Add Product</b><br>
+      <img src="https://github.com/user-attachments/assets/6836ba4e-a2ca-49f6-af4d-0beb2f1c874c" width="250"/>
+    </td>
+  </tr>
 
-<tr>
-<td align="center"><b>🗂 Categories</b><br><img src="https://github.com/user-attachments/assets/8a05848d-b245-474f-a452-59e90e9955d1" width="250"/></td>
-<td align="center"><b>⭐ Favorites</b><br><img src="https://github.com/user-attachments/assets/fa5bca52-5345-4220-9f66-9aa28a20bae3" width="250"/></td>
-<td align="center"><b>🔎 Search</b><br><img src="https://github.com/user-attachments/assets/d3d44bce-69c8-4f43-964e-ade63844f8f1" width="250"/></td>
-</tr>
+  <tr>
+    <td align="center">
+      🗂️ <b>Categories</b><br>
+      <img src="https://github.com/user-attachments/assets/8a05848d-b245-474f-a452-59e90e9955d1" width="250"/>
+    </td>
+    <td align="center">
+      ⭐ <b>Favorite Product</b><br>
+      <img src="https://github.com/user-attachments/assets/fa5bca52-5345-4220-9f66-9aa28a20bae3" width="250"/>
+    </td>
+    <td align="center">
+      🔎 <b>Search Product</b><br>
+      <img src="https://github.com/user-attachments/assets/d3d44bce-69c8-4f43-964e-ade63844f8f1" width="250"/>
+    </td>
+  </tr>
 
-<tr>
-<td align="center"><b>💳 Payment</b><br><img src="https://github.com/user-attachments/assets/42138d7a-e15d-4b22-8130-15197cac8341" width="250"/></td>
-<td align="center"><b>📦 Order Received</b><br><img src="https://github.com/user-attachments/assets/8db39542-d13d-40a2-9d66-1d90e9f93e02" width="250"/></td>
-<td align="center"><b>👤 Admin Module</b><br><img src="https://github.com/user-attachments/assets/01d99aa5-e25a-4448-bd9a-eb7e97b7be67" width="250"/></td>
-</tr>
+  <tr>
+    <td align="center">
+      💳 <b>Payment</b><br>
+      <img src="https://github.com/user-attachments/assets/42138d7a-e15d-4b22-8130-15197cac8341" width="250"/>
+    </td>
+    <td align="center">
+      📦 <b>Order Received</b><br>
+      <img src="https://github.com/user-attachments/assets/8db39542-d13d-40a2-9d66-1d90e9f93e02" width="250"/>
+    </td>
+    <td align="center">
+      👤 <b>Admin Module</b><br>
+      <img src="https://github.com/user-attachments/assets/01d99aa5-e25a-4448-bd9a-eb7e97b7be67" width="250"/>
+    </td>
+  </tr>
 </table>
+
+🌐 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲 – 𝗞𝗶𝗻𝗱𝗻𝗲𝘀𝘀 𝗖𝗮𝗯𝗶𝗻𝗲𝘁 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲
+![Website](https://github.com/user-attachments/assets/e6e7aab6-0685-4194-90dc-ba3dab3c514b)
+
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
 
 ---
 
