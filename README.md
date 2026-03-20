@@ -22,7 +22,6 @@ It enables users to **donate, resell, or share unused items** such as clothes, b
 
 The project focuses on **sustainability, social responsibility, and digital inclusion** by connecting donors, buyers, and underprivileged communities.
 
----
 
 ## 🌍 Project Overview
 
